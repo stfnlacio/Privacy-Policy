@@ -44,5 +44,7 @@ We may update this Privacy Policy from time toTime. Any changes will be posted d
 
 7. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or our games, you can reach out via:
+
 GitHub: [https://github.com/stfnlacio / https://github.com/stfnlacio/Privacy-Policy]
+
 Email: [stfnlacio@gmail.com]
