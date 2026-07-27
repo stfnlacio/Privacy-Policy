@@ -1,3 +1,6 @@
+![Banner Alt Text](https://github.com/stfnlacio/Privacy-Policy/blob/main/Stefan%20Lacio.png)
+
+
 Last Updated: July 27, 2026
 
 This Privacy Policy describes how information is collected, used, and handled when you play games published by [Stefan Lacio / GameByStefanLacio] ("we," "our," or "us").
